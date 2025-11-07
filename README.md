@@ -20,10 +20,18 @@ If you find our repo or paper useful, please cite us as
 
 ```
 @article{he2025dynamic,
-  title={“Dynamic Ensemble, then Knowledge Distillation”: A SHAP-Driven Two-Stage Framework for Sepsis Mortality Prediction},
+  title={“Dynamic Ensemble, Then Knowledge Distillation”: A SHAP-Driven Two-Stage Framework for Sepsis Mortality Prediction}, 
   author={He, Hongwei and Liu, Mucan and Guo, Chonghui},
-  journal={IEEE Journal of Biomedical and Health Informatics},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
   year={2025},
-  publisher={IEEE}
-}
+  volume={29},
+  number={11},
+  pages={8550-8559},
+  doi={10.1109/JBHI.2025.3596029}}
+```
+
+or
+
+```angular2html
+He H, Liu M, Guo C. “Dynamic ensemble, then knowledge distillation”: a SHAP-driven two-stage framework for sepsis mortality prediction[J]. IEEE Journal of Biomedical and Health Informatics, 2025, 29(11): 8550-8559.
 ```
