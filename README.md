@@ -33,5 +33,5 @@ If you find our repo or paper useful, please cite us as
 or
 
 ```angular2html
-He H, Liu M, Guo C. “Dynamic ensemble, then knowledge distillation”: a SHAP-driven two-stage framework for sepsis mortality prediction[J]. IEEE Journal of Biomedical and Health Informatics, 2025, 29(11): 8550-8559.
+He H, Liu M, Guo C. “Dynamic ensemble, then knowledge distillation”: A SHAP-driven two-stage framework for sepsis mortality prediction[J]. IEEE Journal of Biomedical and Health Informatics, 2025, 29(11): 8550-8559.
 ```
